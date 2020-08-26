@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="0.703in" height="0.573in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 703 573"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:none}
+    .fil1 {fill:#3A315C}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="fil0" y="3" width="703" height="568"/>
+  <g id="_973424800">
+   <path class="fil1" d="M152 163c0,8 -7,15 -16,15l-134 0 0 41 134 0c22,0 15,32 16,56 0,9 -1,7 3,12 3,3 13,14 17,14l486 0c8,0 16,-7 20,-12 7,-10 2,-15 7,-23 10,-13 25,-16 25,-40 0,-33 -39,-30 -49,-37 -10,-8 -17,-52 -76,-52l-129 0c7,11 49,45 49,55 0,7 -7,13 -15,13l-156 0c-17,0 -20,-12 -31,-30 -5,-8 -20,-38 -25,-38l-126 0 0 26z"/>
+   <path class="fil1" d="M335 178l125 0c-6,-7 -148,-148 -165,-165 -18,-18 -13,-12 -65,-12 17,33 68,114 92,155 5,8 9,14 13,22z"/>
+   <polygon class="fil1" points="206,464 315,464 315,382 206,382 "/>
+   <polygon class="fil1" points="138,573 247,573 247,491 138,491 "/>
+   <polygon class="fil1" points="274,573 383,573 383,491 274,491 "/>
+   <polygon class="fil1" points="410,573 519,573 519,491 410,491 "/>
+   <path class="fil1" d="M29 151l95 0c0,-31 3,-19 -14,-44 -6,-8 -43,-58 -45,-65l-36 0 0 109z"/>
+   <path class="fil1" d="M-7 359c4,6 8,12 12,18 9,-2 23,-12 31,-17l88 -54c-2,-8 -8,-11 -10,-19 -8,2 -22,13 -30,17l-44 27c-5,3 -10,6 -15,9 -6,4 -26,17 -32,19z"/>
+   <path class="fil1" d="M192 338c0,46 55,34 55,7 0,-46 -55,-34 -55,-7z"/>
+   <path class="fil1" d="M560 338c0,41 54,41 54,0 0,-12 -12,-24 -30,-24 -12,0 -24,13 -24,24z"/>
+   <path class="fil1" d="M261 338c0,41 54,41 54,0 0,-12 -12,-24 -31,-24 -11,0 -23,13 -23,24z"/>
+  </g>
+ </g>
+</svg>
